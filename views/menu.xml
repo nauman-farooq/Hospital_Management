@@ -10,5 +10,10 @@
         parent = "menu_hospital_root"
     />
 
+       <menuitem id = "menu_patient"
+        name = "Patient"
+        parent = "menu_frontdesk"
+    />
+
 
 </odoo>
